@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 * 💻 Currently working on Using Reinforcement and Machine Learning to model Epigenetic and Immunological Phenomena.
 
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
+## &#x1f4c8; GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluejee&theme=dracula) 
 
