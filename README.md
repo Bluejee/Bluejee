@@ -1,6 +1,8 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://github.com/Bluejee/Bluejee/blob/main/Bluejee_Logo_Sized.png" alt="The Bluejee Logo" width="400"/>
+</div>
 
-# I am Balakrishna Prabhu B N.
+## Hi there 👋, I am Balakrishna Prabhu B N.
 
 <!--
 **Bluejee/Bluejee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
