@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I am Balakrishna Prabhu B N.
+
 <!--
 **Bluejee/Bluejee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 📖 Project Assistant at [Institute of Bioinformatics and Applied Biotechnology](https://www.ibab.ac.in/). 
+
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently working on Using Reinforcement and Machine Learning to model Epigenetic and Immunological Phenomena.
+
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluejee&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bluejee&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bluejee&theme=dracula)
