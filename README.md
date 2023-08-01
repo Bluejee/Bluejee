@@ -4,26 +4,20 @@
 
 ## Hi there 👋, I am Balakrishna Prabhu B N.
 
-<!--
-**Bluejee/Bluejee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 * 📖 Project Assistant at [Institute of Bioinformatics and Applied Biotechnology](https://www.ibab.ac.in/). 
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
 * 💻 Currently working on Using Reinforcement and Machine Learning to model Epigenetic and Immunological Phenomena.
+
+## Connect with Me.
+
+[![Instagram](https://img.shields.io/badge/Instagram-Bluejee4-9cf?style=flat-square&logo=instagram)](https://www.instagram.com/Bluejee4)
+[![Twitter](https://img.shields.io/badge/Twitter-Bluejee4-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/Bluejee4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-balakrishnaprabhubn-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/balakrishnaprabhubn)
+[![YouTube](https://img.shields.io/badge/YouTube-Bluejee-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Bluejee)
+[![GitHub](https://img.shields.io/badge/GitHub-Bluejee-181717?style=flat-square&logo=github)](https://github.com/Bluejee)
+
 
 ## &#x1f4c8; GitHub Stats
 
