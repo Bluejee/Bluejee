@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Bluejee/Bluejee/blob/main/Bluejee_Logo_Sized.png" alt="The Bluejee Logo" width="400"/>
+    <img src="https://github.com/Bluejee/Bluejee/blob/main/Assets/Bluejee_Logo_Pack/Bluejee_Logo_Sized.png" alt="The Bluejee Logo" width="400"/>
 </div>
 
 ## Hi there 👋, I am Balakrishna Prabhu B N.
