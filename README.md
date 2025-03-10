@@ -4,11 +4,11 @@
 
 ## Hi there 👋, I am Balakrishna Prabhu B N.
 
-* 📖 Project Assistant at [Institute of Bioinformatics and Applied Biotechnology](https://www.ibab.ac.in/). 
-
+* 📖 Junior Researcher pursuing my Ph.D. at the [Center for Development Research (ZEF)](https://www.zef.de/zefhome.html) at the [University of Bonn](https://www.uni-bonn.de/en). 
+          
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Using Reinforcement and Machine Learning to model Epigenetic and Immunological Phenomena.
+* 💻 Currently working on Using Reinforcement, Game Theory, Complex Systems and Dynamics Theory to understand Evolution of Cooperation within individuals.
 
 ## Connect with Me.
 
